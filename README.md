@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá, eu sou Edson Funke 👋
 
-<!--
-**efunke/efunke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Software Architect
 
-Here are some ideas to get you started:
+Especialista em Arquitetura de Software, Análise de Sistemas e Desenvolvimento Full Stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias
+
+- TypeScript
+- Vue
+- PostgreSQL
+- Python
+- PHP
+- Docker
+
+---
+
+## Projetos em destaque
+
+- 🚀 MKPRJ
+- 🔄 VaultSync
+- 📚 SPOD
+- 💧 PagAgua
+- ⚡ Energy Metrics
+
+---
+
+## Contato
+
+- LinkedIn
+- Site
+- E-mail
